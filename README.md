@@ -1,5 +1,7 @@
 # BaoGuaSocks5ProxyServer
 一个轻量的Socks5代理服务，依赖.net运行环境，支持Windows、Linux，支持黑白名单设备  
+*带WithRuntime表示包含运行时版本，单文件可直接运行无需单独安装运行时环境*  
+
 v1.0.0.8更新说明  
 修复了一些bug  
 
