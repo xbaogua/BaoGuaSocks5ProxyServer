@@ -1,7 +1,7 @@
 # BaoGuaSocks5ProxyServer
 一个轻量的Socks5代理服务，依赖.net运行环境，支持Windows、Linux，支持黑白名单设备  
 v1.0.0.8更新说明  
-修改一些bug  
+修复了一些bug  
 
 v1.0.0.7更新说明  
 1、在程序同路径下放置名称为cert.pfx，密码为xiaobaogua证书，程序会对经过的https流量进行解析，打印当前请求的URL，效果如下。  
